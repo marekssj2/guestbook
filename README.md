@@ -1,2 +1,2 @@
-"# guestbook" 
-Live: http://marekssj2.pythonanywhere.com/
+"Live" 
+http://marekssj2.pythonanywhere.com/
